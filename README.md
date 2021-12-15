@@ -7,12 +7,16 @@ A list of great resources about puzzles, brainteasers and brain training games t
 * https://github.com/sharkdp/cube-composer Compose a series of transformations to reach a given result of cubes.
 * https://github.com/tobspr/shapez.io shapez.io is an open source base building game inspired by factorio! Available on web & steam
 * https://brainsporthero.com/mix/list Multiple brain games to play online
-* https://jaredreisinger.github.io/react-crossword/
 
 ## Sudoku
 
 * https://github.com/PseudoFish/Hodoku 
 * https://sudoku1on1.com Play sudoku against other player on the same board at the same time. Fight for every cell. Fill the numbers 
+
+## Development resources and frameworks to build puzzles
+
+* https://github.com/cubing/cubing.js
+* https://jaredreisinger.github.io/react-crossword/
 
 ## Lists about puzzles, brainteasers or brain training
 
