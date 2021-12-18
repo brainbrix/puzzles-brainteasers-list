@@ -25,6 +25,6 @@ A list of great resources about puzzles, brainteasers and brain training games t
 ## Descriptions and sources of puzzles
 
 * https://en.wikipedia.org/wiki/Zebra_Puzzle
-* http://www.braintrix.com New kind of logical puzzles like sudoku with different rules to fill a honey comb board. 
+* http://www.brainbrix.com New kind of logical puzzles like sudoku with different rules to fill a honey comb board. 
 
 
