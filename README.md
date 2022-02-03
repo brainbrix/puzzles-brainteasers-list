@@ -21,6 +21,7 @@ A list of great resources about puzzles, brainteasers and brain training games t
 ## Lists about puzzles, brainteasers or brain training
 
 * https://github.com/sharkdp/great-puzzles
+* https://github.com/tcNickolas/puzzles
 
 ## Descriptions and sources of puzzles
 
