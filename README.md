@@ -24,6 +24,11 @@ A list of great resources about puzzles, brainteasers and brain training games t
 * https://github.com/sharkdp/great-puzzles
 * https://github.com/tcNickolas/puzzles
 
+## Quiz and Trivia
+
+* https://www.quizly.de Create and manage your own quiz and trivia sets.
+* https://www.quizdb.org
+
 ## Descriptions and sources of puzzles
 
 * https://en.wikipedia.org/wiki/Zebra_Puzzle
