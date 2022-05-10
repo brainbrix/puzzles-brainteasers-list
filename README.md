@@ -29,6 +29,7 @@ A list of great resources about puzzles, brainteasers and brain training games t
 
 * https://www.quizly.de Create and manage your own quiz and trivia sets.
 * https://www.quizdb.org
+* https://www.quizdb.eu Database with quiz and trivia questions in german and english language.
 
 ## Descriptions and sources of puzzles
 
