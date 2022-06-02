@@ -36,4 +36,6 @@ A list of great resources about puzzles, brainteasers and brain training games t
 * https://en.wikipedia.org/wiki/Zebra_Puzzle
 * http://www.brainbrix.com New kind of logical puzzles like sudoku with different rules to fill a honey comb board. 
 
+## More lists about Puzzles and Brainteasers
 
+* https://curlie.org/de/Freizeit/Hobbys/R%C3%A4tsel/
