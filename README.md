@@ -14,6 +14,8 @@ A list of great resources about puzzles, brainteasers and brain training games t
 * https://github.com/PseudoFish/Hodoku 
 * https://sudoku1on1.com Play sudoku against other player on the same board at the same time. Fight for every cell. Fill the numbers 
 * https://github.com/grpistoia/SpreadsheetGames
+* www.sudoku.org.uk
+* www.sudokulive.net
 
 ## Development resources and frameworks to build puzzles
 
