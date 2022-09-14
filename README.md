@@ -7,7 +7,7 @@ A list of great resources about puzzles, brainteasers and brain training games t
 * https://github.com/sharkdp/cube-composer Compose a series of transformations to reach a given result of cubes.
 * https://github.com/tobspr/shapez.io shapez.io is an open source base building game inspired by factorio! Available on web & steam
 * https://brainsporthero.com/mix/list Multiple brain games to play online as PWA
-* https://puzzles.brainsporthero.com Easy acces just start to train your brain with an endless list of exercises. German version: https://densport.hirnsport.de
+* https://puzzles.brainsporthero.com Easy acces just start to train your brain with an endless list of exercises. 
 
 ## Sudoku
 
@@ -40,4 +40,7 @@ A list of great resources about puzzles, brainteasers and brain training games t
 
 ## More lists about Puzzles and Brainteasers
 
+### German language content
+
 * https://curlie.org/de/Freizeit/Hobbys/R%C3%A4tsel/
+* https://denksport.hirnsport.de
