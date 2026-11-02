@@ -8,6 +8,7 @@ A list of great resources about puzzles, brainteasers and brain training games t
 * https://github.com/tobspr/shapez.io shapez.io is an open source base building game inspired by factorio! Available on web & steam
 * https://brainsporthero.com/mix/list Multiple brain games to play online as PWA
 * https://puzzles.brainsporthero.com Easy acces just start to train your brain with an endless list of exercises. 
+* https://morningwit.com/daily/ Daily free logic puzzle with gentle hints and plain-language solutions.
 
 ## Sudoku
 
